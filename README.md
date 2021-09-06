@@ -15,7 +15,7 @@ annotate the plots where needed. The ggplot2 is recommended if you are using R.
 * Generate violin plots for all three periods of grades (in one plot).
 * Plot a bar chart for the 'address','traveltime' and `G3' variables.
 * Creat a new variable 'Gmean', which is the mean of 'G1', 'G2','G3'. Plot the
-densities of `Gmean', separately according to the variable `school' (display
+densities of 'Gmean', separately according to the variable `school' (display
 the density curves in the same figure).
 * Plot the scatter plot of 'G1' and 'G2', 'G1' and 'G3', 'G2' and 'G3'.
 
