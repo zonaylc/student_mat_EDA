@@ -3,10 +3,10 @@ Assignment from course "Principel of DataScience": Performing the data cleaniing
 
 ## Tasks
 1. Data Cleaning
-• To understand how our data looks like, extract the rst ve lines of data.
-• Check if there are typos and missing data. If so, correct the typos, list and
+* To understand how our data looks like, extract the rst ve lines of data.
+* Check if there are typos and missing data. If so, correct the typos, list and
 delete the rows contain missing data.
-• Save the cleaned data as a .csv le.
+* Save the cleaned data as a .csv le.
 
 2. Exploratory Data Analysis
 In this section, please describe your ndings for each question base on the plots
