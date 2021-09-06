@@ -1,5 +1,5 @@
 # student_mat_EDA
-Assignment from course "Principel of DataScience": Performing the data cleaniing and EDA.
+Assignment from course "Statistical Principel of DataScience": Performing the data cleaniing and EDA.
 
 ## Tasks
 1. Data Cleaning
